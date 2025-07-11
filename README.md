@@ -48,9 +48,3 @@ python disease_prediction.py
 ## 💡 About the Project:
 This project was completed as part of my **CodeAlpha Internship**.
 
-## 🎥 Demo Video:
-*(Optional: You can paste your YouTube or LinkedIn video link here once you upload it.)*
-
-## 🔗 Connect with Me:
-- LinkedIn: *(Add your LinkedIn link here)*
-- GitHub: [Your GitHub Profile](https://github.com/your-username)
