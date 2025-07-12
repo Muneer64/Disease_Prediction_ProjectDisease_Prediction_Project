@@ -1,4 +1,4 @@
-# Disease_Prediction_ProjectDisease_Prediction_Project
+# Disease_Prediction_Project
 Diabetes Prediction using Machine Learning (Random Forest)
 # Disease Prediction Project (Diabetes Detection)
 
